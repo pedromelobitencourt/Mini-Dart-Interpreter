@@ -1,0 +1,5 @@
+var a = 99;
+var b = 88;
+print(a);
+print(b);
+print(a + b);
