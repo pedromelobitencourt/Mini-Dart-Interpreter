@@ -1,4 +1,4 @@
-# miniDart Interpreter
+# Mini Dart Interpreter
 
 This repository contains an interpreter for a subset of a well-known programming language. The project's main focus is on creating an interpreter for `miniDart`, a toy programming language inspired by Dart (https://dart.dev).
 
